@@ -1,0 +1,14 @@
+.fileupload{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fileupload__progressbar{
+    width: 100%;
+}
